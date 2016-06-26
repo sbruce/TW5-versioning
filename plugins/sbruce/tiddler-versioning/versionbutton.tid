@@ -1,0 +1,8 @@
+title: $:/plugins/sbruce/versioning/version_button
+tags: $:/tags/ViewToolbar
+
+<$newversion>
+
+<$text text="New Version"/>
+
+</$newversion>

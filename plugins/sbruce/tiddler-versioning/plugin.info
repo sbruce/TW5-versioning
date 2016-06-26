@@ -1,0 +1,8 @@
+{
+  "title": "$:/plugins/sbruce/versioning",
+  "description": "TiddlyWiki5 Tiddler Versioning Plugin",
+  "author": "Shaun Bruce",
+  "core-version": ">=5.1.8",
+  "list": "readme",
+  "version": "0.0.1"
+}
